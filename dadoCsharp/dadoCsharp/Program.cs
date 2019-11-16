@@ -48,7 +48,7 @@ namespace dadoCsharp
             Console.WriteLine("                    ###########");
 
         }
-        static void Main(string[] args)
+        static void Main()
         {
 
             ConsoleKeyInfo keyInfo;
@@ -68,11 +68,11 @@ namespace dadoCsharp
                 if (keyInfo.Key == ConsoleKey.Enter)
                 {
 
-                    Console.WriteLine(Environment.NewLine + "Has solicitado una Nueva Visualización" + Environment.NewLine);
-                    DibujarDado(4, 5, 6);
-                   
+                    Console.WriteLine(Environment.NewLine + "Nueva Visualización del dado" + Environment.NewLine);
+                    
                     int[] valores = ObtenerValoresAleatorios();
-                    Console.WriteLine("Números: {0} -- {1} -- {2}", valores[0], valores[1], valores[2]);
+                    DibujarDado(valores[0], valores[1], valores[2]);
+                    
                 }
 
 
