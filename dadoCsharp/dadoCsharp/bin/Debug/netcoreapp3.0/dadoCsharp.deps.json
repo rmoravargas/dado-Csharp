@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "dadoCsharp/1.0.0": {
+        "runtime": {
+          "dadoCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dadoCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

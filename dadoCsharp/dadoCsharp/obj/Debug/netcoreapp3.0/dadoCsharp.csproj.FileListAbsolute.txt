@@ -1,0 +1,11 @@
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\bin\Debug\netcoreapp3.0\dadoCsharp.exe
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\bin\Debug\netcoreapp3.0\dadoCsharp.deps.json
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\bin\Debug\netcoreapp3.0\dadoCsharp.runtimeconfig.json
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\bin\Debug\netcoreapp3.0\dadoCsharp.runtimeconfig.dev.json
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\bin\Debug\netcoreapp3.0\dadoCsharp.dll
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\bin\Debug\netcoreapp3.0\dadoCsharp.pdb
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\obj\Debug\netcoreapp3.0\dadoCsharp.csprojAssemblyReference.cache
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\obj\Debug\netcoreapp3.0\dadoCsharp.AssemblyInfoInputs.cache
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\obj\Debug\netcoreapp3.0\dadoCsharp.AssemblyInfo.cs
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\obj\Debug\netcoreapp3.0\dadoCsharp.dll
+C:\Users\Ruben\Documents\GitHub\dado-Csharp\dadoCsharp\dadoCsharp\obj\Debug\netcoreapp3.0\dadoCsharp.pdb
